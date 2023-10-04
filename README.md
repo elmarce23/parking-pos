@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 # parking-pos
+
+## resources used
+
+This project use [Material IU] (https://v4.mui.com/es/) and [React Icons] (https://react-icons.github.io/react-icons/icons?name=di)
+
 =======
 # Getting Started with Create React App
 
